@@ -1,0 +1,11 @@
+[
+    {
+        "model": "todo_app.task",
+        "pk": 1,
+        "fields": {
+            "taskid": 1,
+            "title": "Sample Task 1",
+            "completed": false
+        }
+    }
+]
